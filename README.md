@@ -1,2 +1,2 @@
 # first-repo
-Repo for Web Apps
+A basic repository for test purposes
